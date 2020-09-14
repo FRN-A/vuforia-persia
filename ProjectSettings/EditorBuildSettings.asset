@@ -11,7 +11,10 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Una Aventura en Persia.unity
     guid: 1f501e5abfa0d7d4698b7636c9677c9a
+  - enabled: 1
+    path: Assets/Scenes/Una Aventura en Persia.unity
+    guid: 98bd84ded99751a4f9bce415a72b9ead
   m_configObjects: {}
